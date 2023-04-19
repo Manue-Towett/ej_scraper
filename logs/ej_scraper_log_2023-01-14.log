@@ -1,0 +1,88 @@
+2023-01-14 13:22:09,902:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 13:22:09,952:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 13:22:09,950:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 13:22:09,956:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 13:22:09,986:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 13:22:17,550:INFO:root:Thread-3 (work)Crawled: 1 || Total External Jobs: 0
+2023-01-14 13:22:17,760:INFO:root:Thread-6 (work)Crawled: 2 || Total External Jobs: 0
+2023-01-14 13:22:17,959:INFO:root:Thread-10 (work)Crawled: 3 || Total External Jobs: 0
+2023-01-14 13:22:18,095:INFO:root:Thread-5 (work)Crawled: 4 || Total External Jobs: 0
+2023-01-14 13:22:18,461:INFO:root:Thread-9 (work)Crawled: 5 || Total External Jobs: 0
+2023-01-14 13:22:18,483:INFO:root:External job found! >> Job_Id: 59718549
+2023-01-14 13:22:18,515:INFO:root:Thread-1 (work)Crawled: 5 || Total External Jobs: 1
+2023-01-14 13:22:18,539:INFO:root:Thread-7 (work)Crawled: 6 || Total External Jobs: 1
+2023-01-14 13:22:18,643:INFO:root:External job found! >> Job_Id: 59712101
+2023-01-14 13:22:18,655:INFO:root:Thread-8 (work)Crawled: 7 || Total External Jobs: 2
+2023-01-14 13:22:21,797:INFO:root:External job found! >> Job_Id: 59709363
+2023-01-14 13:22:21,807:INFO:root:Thread-2 (work)Crawled: 8 || Total External Jobs: 3
+2023-01-14 13:22:22,142:INFO:root:Thread-4 (work)Crawled: 9 || Total External Jobs: 3
+2023-01-14 15:46:23,762:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 15:46:23,795:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 15:46:23,796:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 15:46:23,796:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 15:46:23,796:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 15:49:14,204:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 15:49:14,245:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 15:49:14,246:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 15:52:13,644:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 15:52:13,672:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 15:52:13,672:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 15:52:13,672:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 15:52:13,672:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 15:52:13,672:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 15:52:13,673:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 15:52:13,673:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 15:52:13,673:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 15:52:13,673:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 15:52:13,673:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 16:03:04,304:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 16:03:04,330:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 16:03:04,330:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 16:03:04,338:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 16:03:04,330:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 16:03:04,330:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 16:03:04,337:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 16:03:04,337:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 16:03:04,337:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 16:03:04,342:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 16:03:04,348:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 16:03:44,407:INFO:root: ========= External Jobs Scraper Started =========
+2023-01-14 16:03:44,434:INFO:root:Checking if job with id 59702994 is external
+2023-01-14 16:03:44,434:INFO:root:Checking if job with id 59700291 is external
+2023-01-14 16:03:44,434:INFO:root:Checking if job with id 59685698 is external
+2023-01-14 16:03:44,435:INFO:root:Checking if job with id 59718549 is external
+2023-01-14 16:03:44,435:INFO:root:Checking if job with id 59709363 is external
+2023-01-14 16:03:44,435:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 16:03:44,435:INFO:root:Checking if job with id 59710383 is external
+2023-01-14 16:03:44,436:INFO:root:Checking if job with id 59712101 is external
+2023-01-14 16:03:44,436:INFO:root:Checking if job with id 59701412 is external
+2023-01-14 16:03:44,436:INFO:root:Checking if job with id 59704904 is external
+2023-01-14 16:03:49,754:INFO:root:Thread-7 (work)>> Crawled: 1 || Total External Jobs: 0
+2023-01-14 16:03:50,667:INFO:root:Thread-2 (work)>> Crawled: 2 || Total External Jobs: 0
+2023-01-14 16:03:51,021:INFO:root:Thread-4 (work)>> Crawled: 3 || Total External Jobs: 0
+2023-01-14 16:03:51,444:INFO:root:Thread-5 (work)>> Crawled: 4 || Total External Jobs: 0
+2023-01-14 16:03:51,870:INFO:root:External job found! >> Job_Id: 59718549
+2023-01-14 16:03:51,907:INFO:root:External job found! >> Job_Id: 59712101
+2023-01-14 16:03:59,720:INFO:root:External job found! >> Job_Id: 59709363
+2023-01-14 16:04:00,374:INFO:root:Thread-9 (work)>> Crawled: 5 || Total External Jobs: 3
+2023-01-14 16:04:04,351:INFO:root:Thread-6 (work)>> Crawled: 6 || Total External Jobs: 3
